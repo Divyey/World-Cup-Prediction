@@ -1,0 +1,742 @@
+,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2022-01-02,Gabon,Burkina Faso,0,3,Friendly,Dubai,United Arab Emirates,TRUE
+2022-01-02,Sudan,Zimbabwe,0,0,Friendly,Yaoundé,Cameroon,TRUE
+2022-01-03,Rwanda,Guinea,3,0,Friendly,Kigali,Rwanda,FALSE
+2022-01-04,Mauritania,Gabon,1,1,Friendly,Dubai,United Arab Emirates,TRUE
+2022-01-05,Algeria,Ghana,3,0,Friendly,Al Rayyan,Qatar,TRUE
+2022-01-06,Rwanda,Guinea,0,2,Friendly,Kigali,Rwanda,FALSE
+2022-01-09,Cameroon,Burkina Faso,2,1,African Cup of Nations,Yaoundé,Cameroon,FALSE
+2022-01-09,Ethiopia,Cape Verde,0,1,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-10,Senegal,Zimbabwe,1,0,African Cup of Nations,Bafoussam,Cameroon,TRUE
+2022-01-10,Guinea,Malawi,1,0,African Cup of Nations,Bafoussam,Cameroon,TRUE
+2022-01-10,Morocco,Ghana,1,0,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-10,Comoros,Gabon,0,1,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-11,Nigeria,Egypt,1,0,African Cup of Nations,Garoua,Cameroon,TRUE
+2022-01-11,Sudan,Guinea-Bissau,0,0,African Cup of Nations,Garoua,Cameroon,TRUE
+2022-01-11,Algeria,Sierra Leone,0,0,African Cup of Nations,Douala,Cameroon,TRUE
+2022-01-12,Iceland,Uganda,1,1,Friendly,Belek,Turkey,TRUE
+2022-01-12,Equatorial Guinea,Ivory Coast,0,1,African Cup of Nations,Douala,Cameroon,TRUE
+2022-01-12,Tunisia,Mali,0,1,African Cup of Nations,Limbé,Cameroon,TRUE
+2022-01-12,Mauritania,Gambia,0,1,African Cup of Nations,Limbé,Cameroon,TRUE
+2022-01-13,Cameroon,Ethiopia,4,1,African Cup of Nations,Yaoundé,Cameroon,FALSE
+2022-01-13,Cape Verde,Burkina Faso,0,1,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-14,Senegal,Guinea,0,0,African Cup of Nations,Bafoussam,Cameroon,TRUE
+2022-01-14,Malawi,Zimbabwe,2,1,African Cup of Nations,Bafoussam,Cameroon,TRUE
+2022-01-14,Morocco,Comoros,2,0,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-14,Gabon,Ghana,1,1,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-15,South Korea,Iceland,5,1,Friendly,Antalya,Turkey,TRUE
+2022-01-15,Nigeria,Sudan,3,1,African Cup of Nations,Garoua,Cameroon,TRUE
+2022-01-15,Guinea-Bissau,Egypt,0,1,African Cup of Nations,Garoua,Cameroon,TRUE
+2022-01-16,Colombia,Honduras,2,1,Friendly,Fort Lauderdale,United States,TRUE
+2022-01-16,Peru,Panama,1,1,Friendly,Lima,Peru,FALSE
+2022-01-16,Ivory Coast,Sierra Leone,2,2,African Cup of Nations,Douala,Cameroon,TRUE
+2022-01-16,Algeria,Equatorial Guinea,0,1,African Cup of Nations,Douala,Cameroon,TRUE
+2022-01-16,Gambia,Mali,1,1,African Cup of Nations,Limbé,Cameroon,TRUE
+2022-01-16,Tunisia,Mauritania,4,0,African Cup of Nations,Limbé,Cameroon,TRUE
+2022-01-17,Burkina Faso,Ethiopia,1,1,African Cup of Nations,Bafoussam,Cameroon,TRUE
+2022-01-17,Cameroon,Cape Verde,1,1,African Cup of Nations,Yaoundé,Cameroon,FALSE
+2022-01-18,Moldova,Uganda,2,3,Friendly,Belek,Turkey,TRUE
+2022-01-18,Malawi,Senegal,0,0,African Cup of Nations,Bafoussam,Cameroon,TRUE
+2022-01-18,Zimbabwe,Guinea,2,1,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-18,Gabon,Morocco,2,2,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-18,Ghana,Comoros,2,3,African Cup of Nations,Garoua,Cameroon,TRUE
+2022-01-19,Egypt,Sudan,1,0,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-19,Guinea-Bissau,Nigeria,0,2,African Cup of Nations,Garoua,Cameroon,TRUE
+2022-01-20,South Korea,Moldova,4,0,Friendly,Antalya,Turkey,TRUE
+2022-01-20,Peru,Jamaica,3,0,Friendly,Lima,Peru,FALSE
+2022-01-20,Ivory Coast,Algeria,3,1,African Cup of Nations,Douala,Cameroon,TRUE
+2022-01-20,Sierra Leone,Equatorial Guinea,0,1,African Cup of Nations,Limbé,Cameroon,TRUE
+2022-01-20,Gambia,Tunisia,1,0,African Cup of Nations,Limbé,Cameroon,TRUE
+2022-01-20,Mali,Mauritania,2,0,African Cup of Nations,Douala,Cameroon,TRUE
+2022-01-21,Bolivia,Trinidad and Tobago,5,0,Friendly,Sucre,Bolivia,FALSE
+2022-01-21,Iraq,Uganda,1,0,Friendly,Baghdad,Iraq,FALSE
+2022-01-23,Burkina Faso,Gabon,1,1,African Cup of Nations,Limbé,Cameroon,TRUE
+2022-01-23,Nigeria,Tunisia,0,1,African Cup of Nations,Garoua,Cameroon,TRUE
+2022-01-24,Cameroon,Comoros,2,1,African Cup of Nations,Yaoundé,Cameroon,FALSE
+2022-01-24,Guinea,Gambia,0,1,African Cup of Nations,Bafoussam,Cameroon,TRUE
+2022-01-25,Morocco,Malawi,2,1,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-25,Senegal,Cape Verde,2,0,African Cup of Nations,Bafoussam,Cameroon,TRUE
+2022-01-26,Ivory Coast,Egypt,0,0,African Cup of Nations,Douala,Cameroon,TRUE
+2022-01-26,Mali,Equatorial Guinea,0,0,African Cup of Nations,Limbé,Cameroon,TRUE
+2022-01-27,Bahrain,Uganda,3,1,Friendly,Riffa,Bahrain,FALSE
+2022-01-27,Indonesia,Timor-Leste,4,1,Friendly,Gianyar,Indonesia,FALSE
+2022-01-27,Uzbekistan,South Sudan,3,0,Friendly,Dubai,United Arab Emirates,TRUE
+2022-01-27,Jamaica,Mexico,1,2,FIFA World Cup qualification,Kingston,Jamaica,FALSE
+2022-01-27,United States,El Salvador,1,0,FIFA World Cup qualification,Columbus,United States,FALSE
+2022-01-27,Honduras,Canada,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE
+2022-01-27,Costa Rica,Panama,1,0,FIFA World Cup qualification,San José,Costa Rica,FALSE
+2022-01-27,Lebanon,South Korea,0,1,FIFA World Cup qualification,Sidon,Lebanon,FALSE
+2022-01-27,Iran,Iraq,1,0,FIFA World Cup qualification,Tehran,Iran,FALSE
+2022-01-27,United Arab Emirates,Syria,2,0,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
+2022-01-27,Japan,China PR,2,0,FIFA World Cup qualification,Saitama,Japan,FALSE
+2022-01-27,Australia,Vietnam,4,0,FIFA World Cup qualification,Melbourne,Australia,FALSE
+2022-01-27,Saudi Arabia,Oman,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,FALSE
+2022-01-27,Ecuador,Brazil,1,1,FIFA World Cup qualification,Quito,Ecuador,FALSE
+2022-01-27,Paraguay,Uruguay,0,1,FIFA World Cup qualification,Asunción,Paraguay,FALSE
+2022-01-27,Chile,Argentina,1,2,FIFA World Cup qualification,Calama,Chile,FALSE
+2022-01-28,Jordan,New Zealand,3,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2022-01-28,Suriname,Barbados,1,0,Friendly,Paramaribo,Suriname,FALSE
+2022-01-28,Colombia,Peru,0,1,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2022-01-28,Venezuela,Bolivia,4,1,FIFA World Cup qualification,Barinas,Venezuela,FALSE
+2022-01-29,Kuwait,Libya,2,0,Friendly,Kuwait City,Kuwait,FALSE
+2022-01-29,Nepal,Mauritius,1,0,Friendly,Kathmandu,Nepal,FALSE
+2022-01-29,Nicaragua,Belize,4,0,Friendly,Managua,Nicaragua,FALSE
+2022-01-29,Burkina Faso,Tunisia,1,0,African Cup of Nations,Garoua,Cameroon,TRUE
+2022-01-29,Cameroon,Gambia,2,0,African Cup of Nations,Douala,Cameroon,FALSE
+2022-01-30,Indonesia,Timor-Leste,3,0,Friendly,Gianyar,Indonesia,FALSE
+2022-01-30,Egypt,Morocco,2,1,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-30,Senegal,Equatorial Guinea,3,1,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-01-30,Canada,United States,2,0,FIFA World Cup qualification,Hamilton,Canada,FALSE
+2022-01-30,Mexico,Costa Rica,0,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
+2022-01-30,Panama,Jamaica,3,2,FIFA World Cup qualification,Panama City,Panama,FALSE
+2022-01-30,Honduras,El Salvador,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE
+2022-02-01,Bahrain,DR Congo,1,0,Friendly,Riffa,Bahrain,FALSE
+2022-02-01,Kuwait,Libya,0,2,Friendly,Kuwait City,Kuwait,FALSE
+2022-02-01,Nepal,Mauritius,1,0,Friendly,Kathmandu,Nepal,FALSE
+2022-02-01,Nicaragua,Belize,1,1,Friendly,Managua,Nicaragua,FALSE
+2022-02-01,Suriname,Guyana,2,1,Friendly,Paramaribo,Suriname,FALSE
+2022-02-01,Lebanon,Iraq,1,1,FIFA World Cup qualification,Sidon,Lebanon,FALSE
+2022-02-01,Iran,United Arab Emirates,1,0,FIFA World Cup qualification,Tehran,Iran,FALSE
+2022-02-01,Syria,South Korea,0,2,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
+2022-02-01,Vietnam,China PR,3,1,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
+2022-02-01,Japan,Saudi Arabia,2,0,FIFA World Cup qualification,Saitama,Japan,FALSE
+2022-02-01,Oman,Australia,2,2,FIFA World Cup qualification,Muscat,Oman,FALSE
+2022-02-01,Bolivia,Chile,2,3,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2022-02-01,Uruguay,Venezuela,4,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2022-02-01,Argentina,Colombia,1,0,FIFA World Cup qualification,Córdoba,Argentina,FALSE
+2022-02-01,Peru,Ecuador,1,1,FIFA World Cup qualification,Lima,Peru,FALSE
+2022-02-01,Brazil,Paraguay,4,0,FIFA World Cup qualification,Belo Horizonte,Brazil,FALSE
+2022-02-02,Burkina Faso,Senegal,1,3,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-02-02,United States,Honduras,3,0,FIFA World Cup qualification,Saint Paul,United States,FALSE
+2022-02-02,Jamaica,Costa Rica,0,1,FIFA World Cup qualification,Kingston,Jamaica,FALSE
+2022-02-02,El Salvador,Canada,0,2,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
+2022-02-02,Mexico,Panama,1,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
+2022-02-03,Cameroon,Egypt,0,0,African Cup of Nations,Yaoundé,Cameroon,FALSE
+2022-02-05,Cameroon,Burkina Faso,3,3,African Cup of Nations,Yaoundé,Cameroon,FALSE
+2022-02-06,Senegal,Egypt,0,0,African Cup of Nations,Yaoundé,Cameroon,TRUE
+2022-03-17,Cook Islands,Solomon Islands,0,2,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-18,Papua New Guinea,New Zealand,0,1,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-18,New Caledonia,Fiji,1,2,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-18,Iraq,Zambia,3,1,Friendly,Baghdad,Iraq,FALSE
+2022-03-19,Mauritius,Seychelles,0,0,Friendly,Saint Pierre,Mauritius,FALSE
+2022-03-21,Papua New Guinea,New Caledonia,1,0,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-21,New Zealand,Fiji,4,0,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-23,Bahrain,India,2,1,Friendly,Riffa,Bahrain,FALSE
+2022-03-23,Gibraltar,Grenada,0,0,Friendly,Gibraltar,Gibraltar,FALSE
+2022-03-23,Guinea-Bissau,Equatorial Guinea,3,0,Friendly,Óbidos,Portugal,TRUE
+2022-03-23,Guadeloupe,Cape Verde,0,2,Friendly,Orléans,France,TRUE
+2022-03-23,Laos,Mongolia,1,0,Friendly,Vientiane,Laos,FALSE
+2022-03-23,Malaysia,Philippines,2,0,Friendly,Kallang,Singapore,TRUE
+2022-03-23,Mozambique,Niger,1,1,Friendly,Nouakchott,Mauritania,TRUE
+2022-03-23,Tanzania,Central African Republic,3,1,Friendly,Dar es Salaam,Tanzania,FALSE
+2022-03-23,Chad,Gambia,0,1,African Cup of Nations qualification,Yaoundé,Cameroon,TRUE
+2022-03-23,Djibouti,South Sudan,2,4,African Cup of Nations qualification,Alexandria,Egypt,TRUE
+2022-03-23,Seychelles,Lesotho,0,0,African Cup of Nations qualification,Saint Pierre,Mauritius,TRUE
+2022-03-23,Somalia,Eswatini,0,3,African Cup of Nations qualification,Dar es Salaam,Tanzania,TRUE
+2022-03-24,Jamaica,El Salvador,1,1,FIFA World Cup qualification,Kingston,Jamaica,FALSE
+2022-03-24,Mexico,United States,0,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
+2022-03-24,Panama,Honduras,1,1,FIFA World Cup qualification,Panama City,Panama,FALSE
+2022-03-24,Costa Rica,Canada,1,0,FIFA World Cup qualification,San José,Costa Rica,FALSE
+2022-03-24,Lebanon,Syria,0,3,FIFA World Cup qualification,Sidon,Lebanon,FALSE
+2022-03-24,Iraq,United Arab Emirates,1,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,TRUE
+2022-03-24,South Korea,Iran,2,0,FIFA World Cup qualification,Seoul,South Korea,FALSE
+2022-03-24,China PR,Saudi Arabia,1,1,FIFA World Cup qualification,Sharjah,United Arab Emirates,TRUE
+2022-03-24,Vietnam,Oman,0,1,FIFA World Cup qualification,Hanoi,Vietnam,FALSE
+2022-03-24,Australia,Japan,0,2,FIFA World Cup qualification,Sydney,Australia,FALSE
+2022-03-24,Solomon Islands,Tahiti,3,1,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-24,Fiji,Papua New Guinea,1,2,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-24,New Zealand,New Caledonia,7,1,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-24,Colombia,Bolivia,3,0,FIFA World Cup qualification,Barranquilla,Colombia,FALSE
+2022-03-24,Brazil,Chile,4,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,FALSE
+2022-03-24,Paraguay,Ecuador,3,1,FIFA World Cup qualification,Ciudad del Este,Paraguay,FALSE
+2022-03-24,Uruguay,Peru,1,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE
+2022-03-24,Italy,North Macedonia,0,1,FIFA World Cup qualification,Palermo,Italy,FALSE
+2022-03-24,Portugal,Turkey,3,1,FIFA World Cup qualification,Porto,Portugal,FALSE
+2022-03-24,Sweden,Czech Republic,1,0,FIFA World Cup qualification,Stockholm,Sweden,FALSE
+2022-03-24,Wales,Austria,2,1,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2022-03-24,Armenia,Montenegro,1,0,Friendly,Yerevan,Armenia,FALSE
+2022-03-24,Guatemala,Cuba,1,0,Friendly,Antigua Guatemala,Guatemala,FALSE
+2022-03-24,Hungary,Serbia,0,1,Friendly,Budapest,Hungary,FALSE
+2022-03-24,Kosovo,Burkina Faso,5,0,Friendly,Pristina,Kosovo,FALSE
+2022-03-24,Liberia,Benin,0,4,Friendly,Antalya,Turkey,TRUE
+2022-03-24,Maldives,Bangladesh,2,0,Friendly,Malé,Maldives,FALSE
+2022-03-24,Scotland,Poland,1,1,Friendly,Glasgow,Scotland,FALSE
+2022-03-24,Thailand,Nepal,2,0,Friendly,Chonburi,Thailand,FALSE
+2022-03-24,Togo,Sierra Leone,3,0,Friendly,Antalya,Turkey,TRUE
+2022-03-24,Estonia,Cyprus,0,0,UEFA Nations League,Tallinn,Estonia,FALSE
+2022-03-24,Moldova,Kazakhstan,1,2,UEFA Nations League,Chișinău,Moldova,FALSE
+2022-03-24,Mauritius,São Tomé and Príncipe,3,0,African Cup of Nations qualification,Saint Pierre,Mauritius,FALSE
+2022-03-25,Cameroon,Algeria,0,1,FIFA World Cup qualification,Douala,Cameroon,FALSE
+2022-03-25,DR Congo,Morocco,1,1,FIFA World Cup qualification,Kinshasa,DR Congo,FALSE
+2022-03-25,Egypt,Senegal,1,0,FIFA World Cup qualification,Cairo,Egypt,FALSE
+2022-03-25,Ghana,Nigeria,0,0,FIFA World Cup qualification,Kumasi,Ghana,FALSE
+2022-03-25,Mali,Tunisia,0,1,FIFA World Cup qualification,Bamako,Mali,FALSE
+2022-03-25,Argentina,Venezuela,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE
+2022-03-25,Andorra,Saint Kitts and Nevis,1,0,Friendly,Andorra la Vella,Andorra,FALSE
+2022-03-25,Bosnia and Herzegovina,Georgia,0,1,Friendly,Zenica,Bosnia and Herzegovina,FALSE
+2022-03-25,Cape Verde,Liechtenstein,6,0,Friendly,San Pedro del Pinatar,Spain,TRUE
+2022-03-25,Comoros,Ethiopia,2,1,Friendly,Moroni,Comoros,FALSE
+2022-03-25,Congo,Zambia,1,3,Friendly,Antalya,Turkey,TRUE
+2022-03-25,France,Ivory Coast,2,1,Friendly,Marseille,France,FALSE
+2022-03-25,Latvia,Kuwait,1,1,Friendly,Ta' Qali,Malta,TRUE
+2022-03-25,Luxembourg,Northern Ireland,1,3,Friendly,Luxembourg,Luxembourg,FALSE
+2022-03-25,Malta,Azerbaijan,1,0,Friendly,Ta' Qali,Malta,FALSE
+2022-03-25,Norway,Slovakia,2,0,Friendly,Oslo,Norway,FALSE
+2022-03-25,Romania,Greece,0,1,Friendly,Bucharest,Romania,FALSE
+2022-03-25,San Marino,Lithuania,1,2,Friendly,Serravalle,San Marino,FALSE
+2022-03-25,South Africa,Guinea,0,0,Friendly,Kortrijk,Belgium,TRUE
+2022-03-25,Tajikistan,Uganda,1,1,Navruz Cup,Namangan,Uzbekistan,TRUE
+2022-03-25,Trinidad and Tobago,Barbados,9,0,Friendly,Port of Spain,Trinidad and Tobago,FALSE
+2022-03-25,Uzbekistan,Kyrgyzstan,3,1,Navruz Cup,Namangan,Uzbekistan,FALSE
+2022-03-26,Angola,Guinea-Bissau,3,2,Friendly,Óbidos,Portugal,TRUE
+2022-03-26,Bahrain,Burundi,1,0,Friendly,Arad,Iran,TRUE
+2022-03-26,Belarus,India,3,0,Friendly,Isa Town,Bahrain,TRUE
+2022-03-26,Central African Republic,Sudan,0,0,Friendly,Dar es Salaam,Tanzania,TRUE
+2022-03-26,Croatia,Slovenia,1,1,Friendly,Al Rayyan,Qatar,TRUE
+2022-03-26,England,Switzerland,2,1,Friendly,London,England,FALSE
+2022-03-26,Finland,Iceland,1,1,Friendly,Murcia,Spain,TRUE
+2022-03-26,Germany,Israel,2,0,Friendly,Sinsheim,Germany,FALSE
+2022-03-26,Gibraltar,Faroe Islands,0,0,Friendly,Gibraltar,Gibraltar,FALSE
+2022-03-26,Libya,Niger,2,1,Friendly,Nouakchott,Mauritania,TRUE
+2022-03-26,Mauritania,Mozambique,2,1,Friendly,Nouakchott,Mauritania,FALSE
+2022-03-26,Netherlands,Denmark,4,2,Friendly,Amsterdam,Netherlands,FALSE
+2022-03-26,Qatar,Bulgaria,2,1,Friendly,Al Rayyan,Qatar,FALSE
+2022-03-26,Republic of Ireland,Belgium,2,2,Friendly,Dublin,Republic of Ireland,FALSE
+2022-03-26,Singapore,Malaysia,2,1,Friendly,Kallang,Singapore,FALSE
+2022-03-26,Spain,Albania,2,1,Friendly,Barcelona,Spain,FALSE
+2022-03-27,El Salvador,Costa Rica,1,2,FIFA World Cup qualification,San Salvador,El Salvador,FALSE
+2022-03-27,Canada,Jamaica,4,0,FIFA World Cup qualification,Toronto,Canada,FALSE
+2022-03-27,Honduras,Mexico,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,FALSE
+2022-03-27,United States,Panama,5,1,FIFA World Cup qualification,Orlando,United States,FALSE
+2022-03-27,New Zealand,Tahiti,1,0,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-27,Solomon Islands,Papua New Guinea,3,2,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-03-27,Barbados,Guyana,0,5,Friendly,Port of Spain,Trinidad and Tobago,TRUE
+2022-03-27,Belize,Cuba,0,3,Friendly,Belmopan,Belize,FALSE
+2022-03-27,Benin,Zambia,2,1,Friendly,Antalya,Turkey,TRUE
+2022-03-27,Guatemala,Haiti,2,1,Friendly,Fort Lauderdale,United States,TRUE
+2022-03-27,Laos,Brunei,3,2,Friendly,Vientiane,Laos,FALSE
+2022-03-27,Liberia,Sierra Leone,0,1,Friendly,Antalya,Turkey,TRUE
+2022-03-27,Thailand,Suriname,1,0,Friendly,Pathum Thani,Thailand,FALSE
+2022-03-27,South Sudan,Djibouti,1,0,African Cup of Nations qualification,Entebbe,Uganda,TRUE
+2022-03-27,Lesotho,Seychelles,3,1,African Cup of Nations qualification,Soweto,South Africa,TRUE
+2022-03-27,Eswatini,Somalia,2,1,African Cup of Nations qualification,Mbombela,South Africa,TRUE
+2022-03-27,Mauritius,São Tomé and Príncipe,3,3,African Cup of Nations qualification,Belle Vue Harel,Mauritius,FALSE
+2022-03-28,Andorra,Grenada,1,0,Friendly,Andorra la Vella,Andorra,FALSE
+2022-03-28,Cape Verde,San Marino,2,0,Friendly,San Pedro del Pinatar,Spain,TRUE
+2022-03-28,Montenegro,Greece,1,0,Friendly,Podgorica,Montenegro,FALSE
+2022-03-28,Vanuatu,Fiji,1,2,Friendly,Doha,Qatar,TRUE
+2022-03-29,Algeria,Cameroon,1,2,FIFA World Cup qualification,Blida,Algeria,FALSE
+2022-03-29,Morocco,DR Congo,4,1,FIFA World Cup qualification,Casablanca,Morocco,FALSE
+2022-03-29,Nigeria,Ghana,1,1,FIFA World Cup qualification,Abuja,Nigeria,FALSE
+2022-03-29,Senegal,Egypt,1,0,FIFA World Cup qualification,Diamniadio,Senegal,FALSE
+2022-03-29,Tunisia,Mali,0,0,FIFA World Cup qualification,Tunis,Tunisia,FALSE
+2022-03-29,Iran,Lebanon,2,0,FIFA World Cup qualification,Mashhad,Iran,FALSE
+2022-03-29,Syria,Iraq,1,1,FIFA World Cup qualification,Dubai,United Arab Emirates,TRUE
+2022-03-29,United Arab Emirates,South Korea,1,0,FIFA World Cup qualification,Dubai,United Arab Emirates,FALSE
+2022-03-29,Japan,Vietnam,1,1,FIFA World Cup qualification,Saitama,Japan,FALSE
+2022-03-29,Oman,China PR,2,0,FIFA World Cup qualification,Muscat,Oman,FALSE
+2022-03-29,Saudi Arabia,Australia,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,FALSE
+2022-03-29,Ecuador,Argentina,1,1,FIFA World Cup qualification,Guayaquil,Ecuador,FALSE
+2022-03-29,Peru,Paraguay,2,0,FIFA World Cup qualification,Lima,Peru,FALSE
+2022-03-29,Bolivia,Brazil,0,4,FIFA World Cup qualification,La Paz,Bolivia,FALSE
+2022-03-29,Venezuela,Colombia,0,1,FIFA World Cup qualification,Guayana,Venezuela,FALSE
+2022-03-29,Chile,Uruguay,0,2,FIFA World Cup qualification,Santiago,Chile,FALSE
+2022-03-29,Poland,Sweden,2,0,FIFA World Cup qualification,Chorzów,Poland,FALSE
+2022-03-29,Portugal,North Macedonia,2,0,FIFA World Cup qualification,Porto,Portugal,FALSE
+2022-03-29,Albania,Georgia,0,0,Friendly,Tirana,Albania,FALSE
+2022-03-29,Angola,Equatorial Guinea,0,0,Friendly,Óbidos,Portugal,TRUE
+2022-03-29,Austria,Scotland,2,2,Friendly,Vienna,Austria,FALSE
+2022-03-29,Azerbaijan,Latvia,0,1,Friendly,Ta' Qali,Malta,TRUE
+2022-03-29,Bahrain,Belarus,0,1,Friendly,Riffa,Bahrain,FALSE
+2022-03-29,Bangladesh,Mongolia,0,0,Friendly,Sylhet,Bangladesh,FALSE
+2022-03-29,Belgium,Burkina Faso,3,0,Friendly,Anderlecht,Belgium,FALSE
+2022-03-29,Bosnia and Herzegovina,Luxembourg,1,0,Friendly,Zenica,Bosnia and Herzegovina,FALSE
+2022-03-29,Congo,Sierra Leone,1,2,Friendly,Antalya,Turkey,TRUE
+2022-03-29,Croatia,Bulgaria,2,1,Friendly,Al Rayyan,Qatar,TRUE
+2022-03-29,Denmark,Serbia,3,0,Friendly,Copenhagen,Denmark,FALSE
+2022-03-29,England,Ivory Coast,3,0,Friendly,London,England,FALSE
+2022-03-29,Faroe Islands,Liechtenstein,1,0,Friendly,San Pedro del Pinatar,Spain,TRUE
+2022-03-29,Finland,Slovakia,0,2,Friendly,Murcia,Spain,TRUE
+2022-03-29,France,South Africa,5,0,Friendly,Villeneuve D'Ascq,Algeria,TRUE
+2022-03-29,Israel,Romania,2,2,Friendly,Netanya,Israel,FALSE
+2022-03-29,Liberia,Burundi,1,2,Friendly,Antalya,Turkey,TRUE
+2022-03-29,Malta,Kuwait,2,0,Friendly,Ta' Qali,Malta,FALSE
+2022-03-29,Mauritania,Libya,2,0,Friendly,Nouakchott,Mauritania,FALSE
+2022-03-29,Netherlands,Germany,1,1,Friendly,Amsterdam,Netherlands,FALSE
+2022-03-29,Northern Ireland,Hungary,0,1,Friendly,Belfast,Northern Ireland,FALSE
+2022-03-29,Norway,Armenia,9,0,Friendly,Oslo,Norway,FALSE
+2022-03-29,Qatar,Slovenia,0,0,Friendly,Al Rayyan,Qatar,FALSE
+2022-03-29,Republic of Ireland,Lithuania,1,0,Friendly,Dublin,Republic of Ireland,FALSE
+2022-03-29,Singapore,Philippines,2,0,Friendly,Kallang,Singapore,FALSE
+2022-03-29,Spain,Iceland,5,0,Friendly,La Coruña,Spain,FALSE
+2022-03-29,Switzerland,Kosovo,1,1,Friendly,Zürich,Switzerland,FALSE
+2022-03-29,Tanzania,Sudan,1,1,Friendly,Dar es Salaam,Tanzania,FALSE
+2022-03-29,Togo,Benin,1,1,Friendly,Antalya,Turkey,TRUE
+2022-03-29,Trinidad and Tobago,Guyana,1,1,Friendly,Port of Spain,Trinidad and Tobago,FALSE
+2022-03-29,Turkey,Italy,2,3,Friendly,Konya,Turkey,FALSE
+2022-03-29,Wales,Czech Republic,1,1,Friendly,Cardiff,Wales,FALSE
+2022-03-29,Tajikistan,Kyrgyzstan,1,0,Navruz Cup,Namangan,Uzbekistan,TRUE
+2022-03-29,Uzbekistan,Uganda,4,2,Navruz Cup,Namangan,Uzbekistan,FALSE
+2022-03-29,Cyprus,Estonia,2,0,UEFA Nations League,Larnaca,Cyprus,FALSE
+2022-03-29,Kazakhstan,Moldova,0,1,UEFA Nations League,Nur-Sultan,Kazakhstan,FALSE
+2022-03-29,Gambia,Chad,2,2,African Cup of Nations qualification,Agadir,Morocco,TRUE
+2022-03-30,Mexico,El Salvador,2,0,FIFA World Cup qualification,Mexico City,Mexico,FALSE
+2022-03-30,Costa Rica,United States,2,0,FIFA World Cup qualification,San José,Costa Rica,FALSE
+2022-03-30,Panama,Canada,1,0,FIFA World Cup qualification,Panama City,Panama,FALSE
+2022-03-30,Jamaica,Honduras,2,1,FIFA World Cup qualification,Kingston,Jamaica,FALSE
+2022-03-30,Solomon Islands,New Zealand,0,5,FIFA World Cup qualification,Doha,Qatar,TRUE
+2022-04-24,El Salvador,Guatemala,0,4,Friendly,San Jose,United States,TRUE
+2022-04-27,Mexico,Guatemala,0,0,Friendly,Orlando,United States,TRUE
+2022-05-12,Bahamas,Turks and Caicos Islands,4,2,Friendly,Nassau,Bahamas,FALSE
+2022-05-12,Dominica,Saint Vincent and the Grenadines,2,1,Friendly,Roseau,Dominica,FALSE
+2022-05-14,Bahamas,Turks and Caicos Islands,1,2,Friendly,Nassau,Bahamas,FALSE
+2022-05-15,Dominica,Saint Vincent and the Grenadines,3,1,Friendly,Roseau,Dominica,FALSE
+2022-05-21,Yoruba Nation,Matabeleland,1,1,CONIFA Africa Football Cup,Johannesburg,South Africa,TRUE
+2022-05-22,Biafra,Matabeleland,0,1,CONIFA Africa Football Cup,Johannesburg,South Africa,TRUE
+2022-05-23,Yoruba Nation,Biafra,0,1,CONIFA Africa Football Cup,Johannesburg,South Africa,TRUE
+2022-05-24,Mozambique,Eswatini,0,1,Friendly,Maputo,Mozambique,FALSE
+2022-05-24,Thailand,Bahrain,3,1,Friendly,Bangkok,Thailand,FALSE
+2022-05-25,Biafra,Matabeleland,1,0,CONIFA Africa Football Cup,Johannesburg,South Africa,TRUE
+2022-05-27,Bahrain,Myanmar,2,0,Friendly,Pathum Thani,Thailand,TRUE
+2022-05-27,Malaysia,Brunei,4,0,Friendly,Kuala Lumpur,Malaysia,FALSE
+2022-05-27,Thailand,Turkmenistan,1,0,Friendly,Sisaket,Thailand,FALSE
+2022-05-28,Ethiopia,Lesotho,1,1,Friendly,Adama,Ethiopia,FALSE
+2022-05-28,India,Jordan,0,2,Friendly,Doha,Qatar,TRUE
+2022-05-28,Mexico,Nigeria,2,1,Friendly,Arlington,United States,TRUE
+2022-05-29,United Arab Emirates,Gambia,1,1,Friendly,Dubai,United Arab Emirates,FALSE
+2022-05-30,Ethiopia,Lesotho,1,1,Friendly,Adama,Ethiopia,FALSE
+2022-05-30,Trinidad and Tobago,Saint Lucia,1,0,Friendly,San Fernando,Trinidad and Tobago,FALSE
+2022-05-31,Thailand,Bahrain,1,2,Friendly,Pathum Thani,Thailand,FALSE
+2022-06-01,Italy,Argentina,0,3,CONMEBOL–UEFA Cup of Champions,Paris,France,TRUE
+2022-06-01,Scotland,Ukraine,1,3,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+2022-06-01,Angola,Central African Republic,2,1,African Cup of Nations qualification,Luanda,Angola,FALSE
+2022-06-01,Ghana,Madagascar,3,0,African Cup of Nations qualification,Cape Coast,Ghana,FALSE
+2022-06-01,Libya,Botswana,1,0,African Cup of Nations qualification,Benghazi,Libya,FALSE
+2022-06-01,Poland,Wales,2,1,UEFA Nations League,Wrocław,Poland,FALSE
+2022-06-01,Australia,Jordan,2,1,Friendly,Al Wakrah,Qatar,TRUE
+2022-06-01,Indonesia,Bangladesh,0,0,Friendly,Soreang,Indonesia,FALSE
+2022-06-01,Malta,Venezuela,0,1,Friendly,Ta' Qali,Malta,FALSE
+2022-06-01,Kuwait,Singapore,0,0,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2022-06-01,Malaysia,Hong Kong,2,0,Friendly,Kuala Lumpur,Malaysia,FALSE
+2022-06-01,Syria,Tajikistan,1,0,Friendly,Dubai,United Arab Emirates,TRUE
+2022-06-01,United States,Morocco,3,0,Friendly,Cincinnati,United States,FALSE
+2022-06-01,Vietnam,Afghanistan,2,0,Friendly,Ho Chi Minh City,Vietnam,FALSE
+2022-06-02,Tunisia,Equatorial Guinea,4,0,African Cup of Nations qualification,Radès,Tunisia,FALSE
+2022-06-02,Mozambique,Rwanda,1,1,African Cup of Nations qualification,Johannesburg,South Africa,TRUE
+2022-06-02,Panama,Costa Rica,2,0,CONCACAF Nations League,Panama City,Panama,FALSE
+2022-06-02,Barbados,Antigua and Barbuda,0,1,CONCACAF Nations League,Gros Islet,Saint Lucia,TRUE
+2022-06-02,Guadeloupe,Cuba,2,1,CONCACAF Nations League,Les Abymes,Guadeloupe,FALSE
+2022-06-02,Belize,Dominican Republic,0,2,CONCACAF Nations League,Belmopan,Belize,FALSE
+2022-06-02,French Guiana,Guatemala,2,0,CONCACAF Nations League,Cayenne,French Guiana,FALSE
+2022-06-02,Anguilla,Dominica,0,0,CONCACAF Nations League,The Valley,Anguilla,FALSE
+2022-06-02,Czech Republic,Switzerland,2,1,UEFA Nations League,Prague,Czech Republic,FALSE
+2022-06-02,Spain,Portugal,1,1,UEFA Nations League,Sevilla,Spain,FALSE
+2022-06-02,Israel,Iceland,2,2,UEFA Nations League,Haifa,Israel,FALSE
+2022-06-02,Serbia,Norway,0,1,UEFA Nations League,Belgrade,Serbia,FALSE
+2022-06-02,Slovenia,Sweden,0,2,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2022-06-02,Northern Ireland,Greece,0,1,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2022-06-02,Cyprus,Kosovo,0,2,UEFA Nations League,Larnaca,Cyprus,FALSE
+2022-06-02,Georgia,Gibraltar,4,0,UEFA Nations League,Tbilisi,Georgia,FALSE
+2022-06-02,Bulgaria,North Macedonia,1,1,UEFA Nations League,Razgrad,Bulgaria,FALSE
+2022-06-02,Estonia,San Marino,2,0,UEFA Nations League,Tallinn,Estonia,FALSE
+2022-06-02,Cambodia,Timor-Leste,2,1,Friendly,Phnom Penh,Cambodia,FALSE
+2022-06-02,Ecuador,Nigeria,1,0,Friendly,Harrison,United States,TRUE
+2022-06-02,Japan,Paraguay,4,1,Friendly,Sapporo,Japan,FALSE
+2022-06-02,South Korea,Brazil,1,5,Friendly,Seoul,South Korea,FALSE
+2022-06-02,Mexico,Uruguay,0,3,Friendly,Glendale,United States,TRUE
+2022-06-03,Togo,Eswatini,2,2,African Cup of Nations qualification,Lomé,Togo,FALSE
+2022-06-03,Burkina Faso,Cape Verde,2,0,African Cup of Nations qualification,Marrakech,Morocco,TRUE
+2022-06-03,Comoros,Lesotho,2,0,African Cup of Nations qualification,Moroni,Comoros,FALSE
+2022-06-03,Ivory Coast,Zambia,3,1,African Cup of Nations qualification,Yamoussoukro,Ivory Coast,FALSE
+2022-06-03,Curaçao,Honduras,0,1,CONCACAF Nations League,Willemstad,Curaçao,FALSE
+2022-06-03,Bahamas,Saint Vincent and the Grenadines,1,0,CONCACAF Nations League,Nassau,Bahamas,FALSE
+2022-06-03,Nicaragua,Trinidad and Tobago,2,1,CONCACAF Nations League,Managua,Nicaragua,FALSE
+2022-06-03,Sint Maarten,United States Virgin Islands,1,1,CONCACAF Nations League,Willemstad,Curaçao,TRUE
+2022-06-03,Turks and Caicos Islands,Bonaire,1,4,CONCACAF Nations League,Providenciales,Turks and Caicos Islands,FALSE
+2022-06-03,Saint Martin,Aruba,0,0,CONCACAF Nations League,The Valley,Anguilla,TRUE
+2022-06-03,British Virgin Islands,Cayman Islands,1,1,CONCACAF Nations League,Tortola,British Virgin Islands,FALSE
+2022-06-03,Croatia,Austria,0,3,UEFA Nations League,Osijek,Croatia,FALSE
+2022-06-03,France,Denmark,1,2,UEFA Nations League,Paris,France,FALSE
+2022-06-03,Belgium,Netherlands,1,4,UEFA Nations League,Brussels,Belgium,FALSE
+2022-06-03,Kazakhstan,Azerbaijan,2,0,UEFA Nations League,Nur-Sultan,Kazakhstan,FALSE
+2022-06-03,Belarus,Slovakia,0,1,UEFA Nations League,Novi Sad,Serbia,TRUE
+2022-06-03,Liechtenstein,Moldova,0,2,UEFA Nations League,Vaduz,Liechtenstein,FALSE
+2022-06-03,Latvia,Andorra,3,0,UEFA Nations League,Riga,Latvia,FALSE
+2022-06-03,Nepal,Oman,0,2,Friendly,Doha,Qatar,TRUE
+2022-06-04,Namibia,Burundi,1,1,African Cup of Nations qualification,Johannesburg,South Africa,TRUE
+2022-06-04,Niger,Tanzania,1,1,African Cup of Nations qualification,Cotonou,Benin,TRUE
+2022-06-04,Algeria,Uganda,2,0,African Cup of Nations qualification,Algiers,Algeria,FALSE
+2022-06-04,Gambia,South Sudan,1,0,African Cup of Nations qualification,Thiès,Senegal,TRUE
+2022-06-04,Mali,Congo,4,0,African Cup of Nations qualification,Bamako,Mali,FALSE
+2022-06-04,Mauritania,Sudan,3,0,African Cup of Nations qualification,Nouakchott,Mauritania,FALSE
+2022-06-04,DR Congo,Gabon,0,1,African Cup of Nations qualification,Kinshasa,DR Congo,FALSE
+2022-06-04,Senegal,Benin,3,1,African Cup of Nations qualification,Diamniadio,Senegal,FALSE
+2022-06-04,Suriname,Jamaica,1,1,CONCACAF Nations League,Paramaribo,Suriname,FALSE
+2022-06-04,El Salvador,Grenada,3,1,CONCACAF Nations League,San Salvador,El Salvador,FALSE
+2022-06-04,Bermuda,Haiti,0,0,CONCACAF Nations League,Devonshire Parish,Bermuda,FALSE
+2022-06-04,Montserrat,Guyana,1,2,CONCACAF Nations League,Santo Domingo,Dominican Republic,TRUE
+2022-06-04,Hungary,England,1,0,UEFA Nations League,Budapest,Hungary,FALSE
+2022-06-04,Italy,Germany,1,1,UEFA Nations League,Bologna,Italy,FALSE
+2022-06-04,Armenia,Republic of Ireland,1,0,UEFA Nations League,Yerevan,Armenia,FALSE
+2022-06-04,Finland,Bosnia and Herzegovina,1,1,UEFA Nations League,Helsinki,Finland,FALSE
+2022-06-04,Montenegro,Romania,2,0,UEFA Nations League,Podgorica,Montenegro,FALSE
+2022-06-04,Lithuania,Luxembourg,0,2,UEFA Nations League,Vilnius,Lithuania,FALSE
+2022-06-04,Turkey,Faroe Islands,4,0,UEFA Nations League,Istanbul,Turkey,FALSE
+2022-06-05,Wales,Ukraine,1,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2022-06-05,Malawi,Ethiopia,2,1,African Cup of Nations qualification,Lilongwe,Malawi,FALSE
+2022-06-05,Egypt,Guinea,1,0,African Cup of Nations qualification,Cairo,Egypt,FALSE
+2022-06-05,Central African Republic,Ghana,1,1,African Cup of Nations qualification,Luanda,Angola,TRUE
+2022-06-05,Madagascar,Angola,1,1,African Cup of Nations qualification,Antananarivo,Madagascar,FALSE
+2022-06-05,Botswana,Tunisia,0,0,African Cup of Nations qualification,Francistown,Botswana,FALSE
+2022-06-05,Costa Rica,Martinique,2,0,CONCACAF Nations League,San José,Costa Rica,FALSE
+2022-06-05,Cuba,Barbados,3,0,CONCACAF Nations League,Santiago,Cuba,FALSE
+2022-06-05,Antigua and Barbuda,Guadeloupe,1,0,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,TRUE
+2022-06-05,Guatemala,Belize,2,0,CONCACAF Nations League,Guatemala City,Guatemala,FALSE
+2022-06-05,Dominican Republic,French Guiana,2,3,CONCACAF Nations League,Santo Domingo,Dominican Republic,FALSE
+2022-06-05,Dominica,Anguilla,1,1,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,TRUE
+2022-06-05,Portugal,Switzerland,4,0,UEFA Nations League,Lisbon,Portugal,FALSE
+2022-06-05,Czech Republic,Spain,2,2,UEFA Nations League,Prague,Czech Republic,FALSE
+2022-06-05,Serbia,Slovenia,4,1,UEFA Nations League,Belgrade,Serbia,FALSE
+2022-06-05,Sweden,Norway,1,2,UEFA Nations League,Stockholm,Sweden,FALSE
+2022-06-05,Cyprus,Northern Ireland,0,0,UEFA Nations League,Larnaca,Cyprus,FALSE
+2022-06-05,Kosovo,Greece,0,1,UEFA Nations League,Pristina,Kosovo,FALSE
+2022-06-05,Gibraltar,North Macedonia,0,2,UEFA Nations League,Gibraltar,Gibraltar,FALSE
+2022-06-05,Bulgaria,Georgia,2,5,UEFA Nations League,Razgrad,Bulgaria,FALSE
+2022-06-05,San Marino,Malta,0,2,UEFA Nations League,Serravalle,San Marino,FALSE
+2022-06-05,Argentina,Estonia,5,0,Friendly,Pamplona,Spain,TRUE
+2022-06-05,Mexico,Ecuador,0,0,Friendly,Chicago,United States,TRUE
+2022-06-05,Peru,New Zealand,1,0,Friendly,Barcelona,Spain,TRUE
+2022-06-05,Saudi Arabia,Colombia,0,1,Friendly,Murcia,Spain,TRUE
+2022-06-05,United States,Uruguay,0,0,Friendly,Kansas City,United States,FALSE
+2022-06-06,Equatorial Guinea,Libya,2,0,African Cup of Nations qualification,Malabo,Equatorial Guinea,FALSE
+2022-06-06,Honduras,Curaçao,1,2,CONCACAF Nations League,San Pedro Sula,Honduras,FALSE
+2022-06-06,Saint Vincent and the Grenadines,Nicaragua,2,2,CONCACAF Nations League,Kingstown,Saint Vincent and the Grenadines,FALSE
+2022-06-06,Trinidad and Tobago,Bahamas,1,0,CONCACAF Nations League,Port of Spain,Trinidad and Tobago,FALSE
+2022-06-06,Bonaire,Sint Maarten,2,2,CONCACAF Nations League,Willemstad,Curaçao,TRUE
+2022-06-06,United States Virgin Islands,Turks and Caicos Islands,3,2,CONCACAF Nations League,Saint Croix,United States Virgin Islands,FALSE
+2022-06-06,Aruba,Saint Martin,3,0,CONCACAF Nations League,Willemstad,Curaçao,TRUE
+2022-06-06,Cayman Islands,British Virgin Islands,1,1,CONCACAF Nations League,George Town,Cayman Islands,FALSE
+2022-06-06,Austria,Denmark,1,2,UEFA Nations League,Vienna,Austria,FALSE
+2022-06-06,Croatia,France,1,1,UEFA Nations League,Split,Croatia,FALSE
+2022-06-06,Iceland,Albania,1,1,UEFA Nations League,Reykjavík,Iceland,FALSE
+2022-06-06,Belarus,Azerbaijan,0,0,UEFA Nations League,Novi Sad,Serbia,TRUE
+2022-06-06,Slovakia,Kazakhstan,0,1,UEFA Nations League,Trnava,Slovakia,FALSE
+2022-06-06,Latvia,Liechtenstein,1,0,UEFA Nations League,Riga,Latvia,FALSE
+2022-06-06,Andorra,Moldova,0,0,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2022-06-06,South Korea,Chile,2,0,Friendly,Daejeon,South Korea,FALSE
+2022-06-06,Japan,Brazil,0,1,Friendly,Tokyo,Japan,FALSE
+2022-06-07,Eswatini,Burkina Faso,1,3,African Cup of Nations qualification,Johannesburg,South Africa,TRUE
+2022-06-07,Cape Verde,Togo,2,0,African Cup of Nations qualification,Marrakech,Morocco,TRUE
+2022-06-07,Zambia,Comoros,2,1,African Cup of Nations qualification,Lusaka,Zambia,FALSE
+2022-06-07,Senegal,Rwanda,1,0,African Cup of Nations qualification,Diamniadio,Senegal,FALSE
+2022-06-07,Jamaica,Suriname,3,1,CONCACAF Nations League,Kingston,Jamaica,FALSE
+2022-06-07,Grenada,El Salvador,2,2,CONCACAF Nations League,St. George's,Grenada,FALSE
+2022-06-07,Guyana,Bermuda,2,1,CONCACAF Nations League,Leonora,Guyana,FALSE
+2022-06-07,Haiti,Montserrat,3,2,CONCACAF Nations League,Santo Domingo,Dominican Republic,TRUE
+2022-06-07,Germany,England,1,1,UEFA Nations League,Munich,Germany,FALSE
+2022-06-07,Italy,Hungary,2,1,UEFA Nations League,Cesena,Italy,FALSE
+2022-06-07,Finland,Montenegro,2,0,UEFA Nations League,Helsinki,Finland,FALSE
+2022-06-07,Bosnia and Herzegovina,Romania,1,0,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+2022-06-07,Faroe Islands,Luxembourg,0,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+2022-06-07,Lithuania,Turkey,0,6,UEFA Nations League,Vilnius,Lithuania,FALSE
+2022-06-08,Kuwait,Indonesia,1,2,AFC Asian Cup qualification,Kuwait City,Kuwait,FALSE
+2022-06-08,Jordan,Nepal,2,0,AFC Asian Cup qualification,Kuwait City,Kuwait,TRUE
+2022-06-08,Philippines,Yemen,0,0,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,TRUE
+2022-06-08,Mongolia,Palestine,0,1,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,FALSE
+2022-06-08,Thailand,Maldives,3,0,AFC Asian Cup qualification,Namangan,Uzbekistan,TRUE
+2022-06-08,Uzbekistan,Sri Lanka,3,0,AFC Asian Cup qualification,Namangan,Uzbekistan,FALSE
+2022-06-08,Hong Kong,Afghanistan,2,1,AFC Asian Cup qualification,Kolkota,India,TRUE
+2022-06-08,India,Cambodia,2,0,AFC Asian Cup qualification,Kolkota,India,FALSE
+2022-06-08,Bahrain,Bangladesh,2,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
+2022-06-08,Malaysia,Turkmenistan,3,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,FALSE
+2022-06-08,Tajikistan,Myanmar,4,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
+2022-06-08,Kyrgyzstan,Singapore,2,1,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,FALSE
+2022-06-08,Uganda,Niger,1,1,African Cup of Nations qualification,Entebbe,Uganda,FALSE
+2022-06-08,Tanzania,Algeria,0,2,African Cup of Nations qualification,Dar es Salaam,Tanzania,FALSE
+2022-06-08,Congo,Gambia,1,0,African Cup of Nations qualification,Brazzaville,Congo,FALSE
+2022-06-08,Gabon,Mauritania,0,0,African Cup of Nations qualification,Franceville,Gabon,FALSE
+2022-06-08,Sudan,DR Congo,2,1,African Cup of Nations qualification,Omdurman,Sudan,FALSE
+2022-06-08,Benin,Mozambique,0,1,African Cup of Nations qualification,Cotonou,Benin,FALSE
+2022-06-08,Wales,Netherlands,1,2,UEFA Nations League,Cardiff,Wales,FALSE
+2022-06-08,Belgium,Poland,6,1,UEFA Nations League,Brussels,Belgium,FALSE
+2022-06-08,Republic of Ireland,Ukraine,0,1,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2022-06-08,Scotland,Armenia,2,0,UEFA Nations League,Glasgow,Scotland,FALSE
+2022-06-09,Guinea-Bissau,São Tomé and Príncipe,5,1,African Cup of Nations qualification,Agadir,Morocco,TRUE
+2022-06-09,Nigeria,Sierra Leone,2,1,African Cup of Nations qualification,Abuja,Nigeria,FALSE
+2022-06-09,Burundi,Cameroon,0,1,African Cup of Nations qualification,Dar es Salaam,Tanzania,TRUE
+2022-06-09,Ethiopia,Egypt,2,0,African Cup of Nations qualification,Lilongwe,Malawi,TRUE
+2022-06-09,Guinea,Malawi,1,0,African Cup of Nations qualification,Conakry,Guinea,FALSE
+2022-06-09,South Sudan,Mali,1,3,African Cup of Nations qualification,Entebbe,Uganda,TRUE
+2022-06-09,Lesotho,Ivory Coast,0,0,African Cup of Nations qualification,Soweto,South Africa,TRUE
+2022-06-09,Morocco,South Africa,2,1,African Cup of Nations qualification,Rabat,Morocco,FALSE
+2022-06-09,Panama,Martinique,5,0,CONCACAF Nations League,Panama City,Panama,FALSE
+2022-06-09,Canada,Curaçao,4,0,CONCACAF Nations League,Vancouver,Canada,FALSE
+2022-06-09,Barbados,Guadeloupe,0,1,CONCACAF Nations League,Gros Islet,Saint Lucia,TRUE
+2022-06-09,Antigua and Barbuda,Cuba,0,2,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,TRUE
+2022-06-09,Belize,French Guiana,1,1,CONCACAF Nations League,Belmopan,Belize,FALSE
+2022-06-09,Aruba,Saint Kitts and Nevis,2,3,CONCACAF Nations League,Willemstad,Curaçao,TRUE
+2022-06-09,Dominica,Saint Lucia,0,1,CONCACAF Nations League,Roseau,Dominica,FALSE
+2022-06-09,Cayman Islands,Puerto Rico,0,3,CONCACAF Nations League,George Town,Cayman Islands,FALSE
+2022-06-09,Portugal,Czech Republic,2,0,UEFA Nations League,Lisbon,Portugal,FALSE
+2022-06-09,Switzerland,Spain,0,1,UEFA Nations League,Geneva,Switzerland,FALSE
+2022-06-09,Norway,Slovenia,0,0,UEFA Nations League,Oslo,Norway,FALSE
+2022-06-09,Sweden,Serbia,0,1,UEFA Nations League,Stockholm,Sweden,FALSE
+2022-06-09,Kosovo,Northern Ireland,3,2,UEFA Nations League,Pristina,Kosovo,FALSE
+2022-06-09,Greece,Cyprus,3,0,UEFA Nations League,Vólos,Greece,FALSE
+2022-06-09,Gibraltar,Bulgaria,1,1,UEFA Nations League,Gibraltar,Gibraltar,FALSE
+2022-06-09,North Macedonia,Georgia,0,3,UEFA Nations League,Skopje,North Macedonia,FALSE
+2022-06-09,Malta,Estonia,1,2,UEFA Nations League,Ta' Qali,Malta,FALSE
+2022-06-09,New Zealand,Oman,0,0,Friendly,Al Rayyan,Qatar,TRUE
+2022-06-09,San Marino,Iceland,0,1,Friendly,Serravalle,San Marino,FALSE
+2022-06-09,Saudi Arabia,Venezuela,0,1,Friendly,Murcia,Spain,TRUE
+2022-06-10,United States,Grenada,5,0,CONCACAF Nations League,Austin,United States,FALSE
+2022-06-10,Saint Vincent and the Grenadines,Trinidad and Tobago,0,2,CONCACAF Nations League,Kingstown,Saint Vincent and the Grenadines,FALSE
+2022-06-10,Bahamas,Nicaragua,0,2,CONCACAF Nations League,Nassau,Bahamas,FALSE
+2022-06-10,Dominican Republic,Guatemala,1,1,CONCACAF Nations League,Santo Domingo,Dominican Republic,FALSE
+2022-06-10,Austria,France,1,1,UEFA Nations League,Vienna,Austria,FALSE
+2022-06-10,Denmark,Croatia,0,1,UEFA Nations League,Copenhagen,Denmark,FALSE
+2022-06-10,Albania,Israel,1,2,UEFA Nations League,Tirana,Albania,FALSE
+2022-06-10,Azerbaijan,Slovakia,0,1,UEFA Nations League,Mardakan,Azerbaijan,FALSE
+2022-06-10,Belarus,Kazakhstan,1,1,UEFA Nations League,Novi Sad,Serbia,TRUE
+2022-06-10,Moldova,Latvia,2,4,UEFA Nations League,Chișinău,Moldova,FALSE
+2022-06-10,Andorra,Liechtenstein,2,1,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2022-06-10,South Korea,Paraguay,2,2,Friendly,Suwon,South Korea,FALSE
+2022-06-10,Chile,Tunisia,0,2,Kirin Cup,Kobe,Japan,TRUE
+2022-06-10,Japan,Ghana,4,1,Kirin Cup,Kobe,Japan,FALSE
+2022-06-11,Kuwait,Nepal,4,1,AFC Asian Cup qualification,Kuwait City,Kuwait,FALSE
+2022-06-11,Indonesia,Jordan,0,1,AFC Asian Cup qualification,Kuwait City,Kuwait,TRUE
+2022-06-11,Mongolia,Philippines,0,1,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,FALSE
+2022-06-11,Yemen,Palestine,0,5,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,TRUE
+2022-06-11,Sri Lanka,Thailand,0,2,AFC Asian Cup qualification,Namangan,Uzbekistan,TRUE
+2022-06-11,Uzbekistan,Maldives,4,0,AFC Asian Cup qualification,Namangan,Uzbekistan,FALSE
+2022-06-11,Cambodia,Hong Kong,0,3,AFC Asian Cup qualification,Kolkota,India,TRUE
+2022-06-11,India,Afghanistan,2,1,AFC Asian Cup qualification,Kolkota,India,FALSE
+2022-06-11,Bangladesh,Turkmenistan,1,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
+2022-06-11,Malaysia,Bahrain,1,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,FALSE
+2022-06-11,Singapore,Tajikistan,0,1,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
+2022-06-11,Kyrgyzstan,Myanmar,2,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,FALSE
+2022-06-11,Mexico,Suriname,3,0,CONCACAF Nations League,Torreón,Mexico,FALSE
+2022-06-11,Guyana,Haiti,2,6,CONCACAF Nations League,Leonora,Guyana,FALSE
+2022-06-11,Montserrat,Bermuda,3,2,CONCACAF Nations League,Santo Domingo,Dominican Republic,TRUE
+2022-06-11,United States Virgin Islands,Bonaire,0,2,CONCACAF Nations League,Saint Croix,United States Virgin Islands,FALSE
+2022-06-11,Sint Maarten,Turks and Caicos Islands,8,2,CONCACAF Nations League,Willemstad,Curaçao,TRUE
+2022-06-11,England,Italy,0,0,UEFA Nations League,Wolverhampton,England,FALSE
+2022-06-11,Hungary,Germany,1,1,UEFA Nations League,Budapest,Hungary,FALSE
+2022-06-11,Wales,Belgium,1,1,UEFA Nations League,Cardiff,Wales,FALSE
+2022-06-11,Netherlands,Poland,2,2,UEFA Nations League,Rotterdam,Netherlands,FALSE
+2022-06-11,Ukraine,Armenia,3,0,UEFA Nations League,Łódź,Poland,TRUE
+2022-06-11,Republic of Ireland,Scotland,3,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2022-06-11,Montenegro,Bosnia and Herzegovina,1,1,UEFA Nations League,Podgorica,Montenegro,FALSE
+2022-06-11,Romania,Finland,1,0,UEFA Nations League,Bucharest,Romania,FALSE
+2022-06-11,Faroe Islands,Lithuania,2,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+2022-06-11,Luxembourg,Turkey,0,2,UEFA Nations League,Luxembourg,Luxembourg,FALSE
+2022-06-11,Ecuador,Cape Verde,1,0,Friendly,Fort Lauderdale,United States,TRUE
+2022-06-11,Uruguay,Panama,5,0,Friendly,Montevideo,Uruguay,FALSE
+2022-06-12,Martinique,Panama,0,0,CONCACAF Nations League,Fort de France,Martinique,FALSE
+2022-06-12,Cuba,Antigua and Barbuda,3,1,CONCACAF Nations League,Santiago,Cuba,FALSE
+2022-06-12,Guadeloupe,Barbados,2,1,CONCACAF Nations League,Les Abymes,Guadeloupe,FALSE
+2022-06-12,Saint Kitts and Nevis,Saint Martin,1,1,CONCACAF Nations League,Basseterre,Saint Kitts and Nevis,FALSE
+2022-06-12,Saint Lucia,Anguilla,2,0,CONCACAF Nations League,Gros Islet,Saint Lucia,FALSE
+2022-06-12,Puerto Rico,British Virgin Islands,6,0,CONCACAF Nations League,Mayagüez,Puerto Rico,FALSE
+2022-06-12,Spain,Czech Republic,2,0,UEFA Nations League,Málaga,Spain,FALSE
+2022-06-12,Switzerland,Portugal,1,0,UEFA Nations League,Geneva,Switzerland,FALSE
+2022-06-12,Norway,Sweden,3,2,UEFA Nations League,Oslo,Norway,FALSE
+2022-06-12,Slovenia,Serbia,2,2,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2022-06-12,Northern Ireland,Cyprus,2,2,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2022-06-12,Greece,Kosovo,2,0,UEFA Nations League,Vólos,Greece,FALSE
+2022-06-12,North Macedonia,Gibraltar,4,0,UEFA Nations League,Skopje,North Macedonia,FALSE
+2022-06-12,Georgia,Bulgaria,0,0,UEFA Nations League,Tbilisi,Georgia,FALSE
+2022-06-12,Malta,San Marino,1,0,UEFA Nations League,Ta' Qali,Malta,FALSE
+2022-06-12,Iran,Algeria,1,2,Friendly,Doha,Qatar,TRUE
+2022-06-13,Australia,Peru,0,0,FIFA World Cup qualification,Al Rayyan,Qatar,TRUE
+2022-06-13,São Tomé and Príncipe,Nigeria,0,10,African Cup of Nations qualification,Agadir,Morocco,TRUE
+2022-06-13,Sierra Leone,Guinea-Bissau,2,2,African Cup of Nations qualification,Conakry,Guinea,TRUE
+2022-06-13,Morocco,Liberia,2,0,African Cup of Nations qualification,Casablanca,Morocco,FALSE
+2022-06-13,Honduras,Canada,2,1,CONCACAF Nations League,San Pedro Sula,Honduras,FALSE
+2022-06-13,Nicaragua,Bahamas,4,0,CONCACAF Nations League,Managua,Nicaragua,FALSE
+2022-06-13,Trinidad and Tobago,Saint Vincent and the Grenadines,4,1,CONCACAF Nations League,Port of Spain,Trinidad and Tobago,FALSE
+2022-06-13,Guatemala,Dominican Republic,2,0,CONCACAF Nations League,Guatemala City,Guatemala,FALSE
+2022-06-13,Denmark,Austria,2,0,UEFA Nations League,Copenhagen,Denmark,FALSE
+2022-06-13,France,Croatia,0,1,UEFA Nations League,Paris,France,FALSE
+2022-06-13,Iceland,Israel,2,2,UEFA Nations League,Reykjavík,Iceland,FALSE
+2022-06-13,Azerbaijan,Belarus,2,0,UEFA Nations League,Mardakan,Azerbaijan,FALSE
+2022-06-13,Kazakhstan,Slovakia,2,1,UEFA Nations League,Nur-Sultan,Kazakhstan,FALSE
+2022-06-13,Albania,Estonia,0,0,Friendly,Tirana,Albania,FALSE
+2022-06-14,Costa Rica,New Zealand,1,0,FIFA World Cup qualification,Al Rayyan,Qatar,TRUE
+2022-06-14,Kuwait,Jordan,0,3,AFC Asian Cup qualification,Kuwait City,Kuwait,FALSE
+2022-06-14,Indonesia,Nepal,7,0,AFC Asian Cup qualification,Kuwait City,Kuwait,TRUE
+2022-06-14,Palestine,Philippines,4,0,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,TRUE
+2022-06-14,Mongolia,Yemen,2,0,AFC Asian Cup qualification,Ulaanbaatar,Mongolia,FALSE
+2022-06-14,Maldives,Sri Lanka,1,0,AFC Asian Cup qualification,Namangan,Uzbekistan,TRUE
+2022-06-14,Uzbekistan,Thailand,2,0,AFC Asian Cup qualification,Namangan,Uzbekistan,FALSE
+2022-06-14,Afghanistan,Cambodia,2,2,AFC Asian Cup qualification,Kolkota,India,TRUE
+2022-06-14,India,Hong Kong,4,0,AFC Asian Cup qualification,Kolkota,India,FALSE
+2022-06-14,Bahrain,Turkmenistan,1,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
+2022-06-14,Malaysia,Bangladesh,4,1,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,FALSE
+2022-06-14,Myanmar,Singapore,2,6,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
+2022-06-14,Kyrgyzstan,Tajikistan,0,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,FALSE
+2022-06-14,Jamaica,Mexico,1,1,CONCACAF Nations League,Kingston,Jamaica,FALSE
+2022-06-14,El Salvador,United States,1,1,CONCACAF Nations League,San Salvador,El Salvador,FALSE
+2022-06-14,Haiti,Guyana,6,0,CONCACAF Nations League,Santo Domingo,Dominican Republic,TRUE
+2022-06-14,French Guiana,Belize,1,0,CONCACAF Nations League,Cayenne,French Guiana,FALSE
+2022-06-14,Bonaire,United States Virgin Islands,2,0,CONCACAF Nations League,Willemstad,Curaçao,TRUE
+2022-06-14,Turks and Caicos Islands,Sint Maarten,2,0,CONCACAF Nations League,Providenciales,Turks and Caicos Islands,FALSE
+2022-06-14,England,Hungary,0,4,UEFA Nations League,Wolverhampton,England,FALSE
+2022-06-14,Germany,Italy,5,2,UEFA Nations League,Mönchengladbach,Germany,FALSE
+2022-06-14,Netherlands,Wales,3,2,UEFA Nations League,Rotterdam,Netherlands,FALSE
+2022-06-14,Poland,Belgium,0,1,UEFA Nations League,Warsaw,Poland,FALSE
+2022-06-14,Armenia,Scotland,1,4,UEFA Nations League,Yerevan,Armenia,FALSE
+2022-06-14,Ukraine,Republic of Ireland,1,1,UEFA Nations League,Łódź,Poland,TRUE
+2022-06-14,Bosnia and Herzegovina,Finland,3,2,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+2022-06-14,Romania,Montenegro,0,3,UEFA Nations League,Bucharest,Romania,FALSE
+2022-06-14,Luxembourg,Faroe Islands,2,2,UEFA Nations League,Luxembourg,Luxembourg,FALSE
+2022-06-14,Turkey,Lithuania,2,0,UEFA Nations League,İzmir,Turkey,FALSE
+2022-06-14,Moldova,Andorra,2,1,UEFA Nations League,Chișinău,Moldova,FALSE
+2022-06-14,Liechtenstein,Latvia,0,2,UEFA Nations League,Vaduz,Liechtenstein,FALSE
+2022-06-14,Chile,Ghana,0,0,Kirin Cup,Suita,Japan,TRUE
+2022-06-14,Japan,Tunisia,0,3,Kirin Cup,Suita,Japan,FALSE
+2022-06-14,South Korea,Egypt,4,1,Friendly,Seoul,South Korea,FALSE
+2022-06-17,Mapuche,Maule Sur,0,1,CONIFA South America Football Cup,Linares,Chile,TRUE
+2022-06-18,Mapuche,Aymara,3,1,CONIFA South America Football Cup,Linares,Chile,TRUE
+2022-06-19,Aymara,Maule Sur,0,1,CONIFA South America Football Cup,Linares,Chile,TRUE
+2022-08-31,Mexico,Paraguay,0,1,Friendly,Atlanta,United States,TRUE
+2022-09-17,Fiji,New Caledonia,1,0,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
+2022-09-17,Solomon Islands,New Caledonia,1,0,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
+2022-09-21,Brunei Darussalam,Maldives,0,3,Friendly,Bandar Seri Begawan,Brunei,TRUE
+2022-09-21,Hong Kong,Myanmar,2,0,Friendly,Hong Kong,Hong Kong,FALSE
+2022-09-21,Libya,Uganda,0,0,Friendly,Benghazi,Libya,FALSE
+2022-09-21,San Marino,Seychelles,0,0,Friendly,Serravalle,San Marino,FALSE
+2022-09-21,Vietnam,Singapore,4,0,Friendly,Ho Chi Minh City,Vietnam,FALSE
+2022-09-21,Scotland,Ukraine,3,0,UEFA Nations League,Glasgow,Scotland,FALSE
+2022-09-22,Australia,New Zealand,1,0,Friendly,Brisbane,Australia,FALSE
+2022-09-22,Cambodia,Bangladesh,0,1,Friendly,Phnom Penh,Cambodia,FALSE
+2022-09-22,Comoros,Tunisia,0,1,Friendly,Orléans,France,TRUE
+2022-09-22,Iceland,Venezuela,1,0,Friendly,Maria Enzersdorf,Austria,TRUE
+2022-09-22,Suriname,Nicaragua,2,1,Friendly,Almere,Netherlands,TRUE
+2022-09-22,Thailand,Malaysia,1,1,King's Cup,Chiang Mai,Thailand,FALSE
+2022-09-22,Trinidad and Tobago,Tajikistan,1,2,King's Cup,Chiang Mai,Thailand,TRUE
+2022-09-22,Croatia,Denmark,2,1,UEFA Nations League,Zagreb,Croatia,FALSE
+2022-09-22,France,Austria,2,0,UEFA Nations League,Paris,France,FALSE
+2022-09-22,Belgium,Wales,2,1,UEFA Nations League,Brussels,Belgium,FALSE
+2022-09-22,Poland,Netherlands,0,2,UEFA Nations League,Warsaw,Poland,FALSE
+2022-09-22,Lithuania,Faroe Islands,1,1,UEFA Nations League,Vilnius,Lithuania,FALSE
+2022-09-22,Turkey,Luxembourg,3,3,UEFA Nations League,Istanbul,Turkey,FALSE
+2022-09-22,Kazakhstan,Belarus,2,1,UEFA Nations League,Astana,Kazakhstan,FALSE
+2022-09-22,Slovakia,Azerbaijan,1,2,UEFA Nations League,Trnava,Slovakia,FALSE
+2022-09-22,Latvia,Moldova,1,2,UEFA Nations League,Riga,Latvia,FALSE
+2022-09-22,Liechtenstein,Andorra,0,2,UEFA Nations League,Vaduz,Liechtenstein,FALSE
+2022-09-23,Japan,United States,2,0,Kirin Challenge Cup,Düsseldorf,Germany,TRUE
+2022-09-23,Algeria,Guinea,1,0,Friendly,Oran,Algeria,FALSE
+2022-09-23,Argentina,Honduras,3,0,Friendly,Miami Gardens,United States,TRUE
+2022-09-23,Bahrain,Cape Verde,1,2,Friendly,Riffa,Bahrain,FALSE
+2022-09-23,Brazil,Ghana,3,0,Friendly,Le Havre,France,TRUE
+2022-09-23,Cameroon,Uzbekistan,0,2,Friendly,Goyang,South Korea,TRUE
+2022-09-23,Canada,Qatar,2,0,Friendly,Vienna,Austria,TRUE
+2022-09-23,DR Congo,Burkina Faso,0,1,Friendly,Casablanca,Morocco,TRUE
+2022-09-23,Egypt,Niger,3,0,Friendly,Alexandria,Egypt,FALSE
+2022-09-23,Iran,Uruguay,1,0,Friendly,St Polten,Austria,TRUE
+2022-09-23,Iraq,Oman,1,1,Friendly,Amman,Jordan,TRUE
+2022-09-23,Jordan,Syria,2,0,Friendly,Amman,Jordan,FALSE
+2022-09-23,South Korea,Costa Rica,2,2,Friendly,Goyang,South Korea,FALSE
+2022-09-23,Mali,Zambia,1,0,Friendly,Bamako,Mali,FALSE
+2022-09-23,Morocco,Chile,2,0,Friendly,Barcelona,Spain,TRUE
+2022-09-23,Paraguay,United Arab Emirates,1,0,Friendly,Wiener Neustadt,Austria,TRUE
+2022-09-23,Rwanda,Equatorial Guinea,0,0,Friendly,Berrechid,Egypt,TRUE
+2022-09-23,Saudi Arabia,Ecuador,0,0,Friendly,Murcia,Spain,TRUE
+2022-09-23,Germany,Hungary,0,1,UEFA Nations League,Leipzig,Germany,FALSE
+2022-09-23,Italy,England,1,0,UEFA Nations League,Milan,Italy,FALSE
+2022-09-23,Bosnia and Herzegovina,Montenegro,1,0,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+2022-09-23,Finland,Romania,1,1,UEFA Nations League,Helsinki,Finland,FALSE
+2022-09-23,Georgia,North Macedonia,2,0,UEFA Nations League,Tbilisi,Georgia,FALSE
+2022-09-23,Bulgaria,Gibraltar,5,1,UEFA Nations League,Razgrad,Bulgaria,FALSE
+2022-09-23,Estonia,Malta,2,1,UEFA Nations League,Tallinn,Estonia,FALSE
+2022-09-24,Bolivia,Senegal,0,2,Friendly,Orléans,France,TRUE
+2022-09-24,Colombia,Guatemala,4,1,Friendly,Harrison,United States,TRUE
+2022-09-24,Fiji,Solomon Islands,2,2,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
+2022-09-24,Grenada,Saint Vincent and the Grenadines,1,3,Friendly,Carriacou,Grenada,FALSE
+2022-09-24,Hong Kong,Myanmar,0,0,Friendly,Hong Kong,Hong Kong,FALSE
+2022-09-24,India,Singapore,1,1,Friendly,Ho Chi Minh City,Vietnam,TRUE
+2022-09-24,Indonesia,Curaçao,3,2,Friendly,Bandung,Indonesia,FALSE
+2022-09-24,Ivory Coast,Togo,2,1,Friendly,Rouen,France,TRUE
+2022-09-24,Laos,Maldives,1,3,Friendly,Bandar Seri Begawan,Brunei,TRUE
+2022-09-24,Madagascar,Congo,3,3,Friendly,Mohammedia,Morocco,TRUE
+2022-09-24,Mauritania,Benin,1,0,Friendly,Mohammedia,Morocco,TRUE
+2022-09-24,Mexico,Peru,1,0,Friendly,Pasadena,United States,TRUE
+2022-09-24,South Africa,Sierra Leone,4,0,Friendly,Johannesburg,South Africa,FALSE
+2022-09-24,Tanzania,Uganda,1,0,Friendly,Benghazi,Libya,TRUE
+2022-09-24,Vanuatu,Papua New Guinea,0,1,MSG Prime Minister's Cup,Port Vila,Vanuatu,FALSE
+2022-09-24,Czech Republic,Portugal,0,4,UEFA Nations League,Prague,Czech Republic,FALSE
+2022-09-24,Spain,Switzerland,1,2,UEFA Nations League,Zaragoza,Spain,FALSE
+2022-09-24,Armenia,Ukraine,0,5,UEFA Nations League,Yerevan,Armenia,FALSE
+2022-09-24,Scotland,Republic of Ireland,2,1,UEFA Nations League,Glasgow,Scotland,FALSE
+2022-09-24,Israel,Albania,2,1,UEFA Nations League,Tel Aviv,Israel,FALSE
+2022-09-24,Slovenia,Norway,2,1,UEFA Nations League,Ljubljana,Slovenia,FALSE
+2022-09-24,Serbia,Sweden,4,1,UEFA Nations League,Belgrade,Serbia,FALSE
+2022-09-24,Northern Ireland,Kosovo,2,1,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2022-09-24,Cyprus,Greece,1,0,UEFA Nations League,Larnaca,Cyprus,FALSE
+2022-09-25,Thailand,Trinidad and Tobago,2,1,King's Cup,Chiang Mai,Thailand,FALSE
+2022-09-25,Malaysia,Tajikistan,0,0,King's Cup,Chiang Mai,Thailand,TRUE
+2022-09-25,New Zealand,Australia,0,2,Friendly,Auckland,New Zealand,FALSE
+2022-09-25,Niger,Liberia,0,0,Friendly,Cairo,Egypt,TRUE
+2022-09-25,Austria,Croatia,1,3,UEFA Nations League,Vienna,Austria,FALSE
+2022-09-25,Denmark,France,2,0,UEFA Nations League,Copenhagen,Denmark,FALSE
+2022-09-25,Wales,Poland,0,1,UEFA Nations League,Cardiff,Wales,FALSE
+2022-09-25,Netherlands,Belgium,1,0,UEFA Nations League,Amsterdam,Netherlands,FALSE
+2022-09-25,Faroe Islands,Turkey,2,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+2022-09-25,Luxembourg,Lithuania,1,0,UEFA Nations League,Luxembourg,Luxembourg,FALSE
+2022-09-25,Slovakia,Belarus,1,1,UEFA Nations League,Bačka Topola,Serbia,TRUE
+2022-09-25,Azerbaijan,Kazakhstan,3,0,UEFA Nations League,Baku,Azerbaijan,FALSE
+2022-09-25,Andorra,Latvia,1,1,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2022-09-25,Moldova,Liechtenstein,2,0,UEFA Nations League,Chișinău,Moldova,FALSE
+2022-09-26,Ethiopia,Sudan,2,2,Friendly,Addis Ababa,Ethiopia,FALSE
+2022-09-26,Iraq,Syria,1,0,Friendly,Amman,Jordan,TRUE
+2022-09-26,Jordan,Oman,1,0,Friendly,Amman,Jordan,FALSE
+2022-09-26,England,Germany,3,3,UEFA Nations League,London,England,FALSE
+2022-09-26,Hungary,Italy,0,2,UEFA Nations League,Budapest,Hungary,FALSE
+2022-09-26,Montenegro,Finland,0,2,UEFA Nations League,Podgorica,Montenegro,FALSE
+2022-09-26,Romania,Bosnia and Herzegovina,4,1,UEFA Nations League,Bucharest,Romania,FALSE
+2022-09-26,Gibraltar,Georgia,1,2,UEFA Nations League,Gibraltar,Gibraltar,FALSE
+2022-09-26,North Macedonia,Bulgaria,0,1,UEFA Nations League,Skopje,North Macedonia,FALSE
+2022-09-26,San Marino,Estonia,0,4,UEFA Nations League,Serravalle,San Marino,FALSE
+2022-09-27,Fiji,Papua New Guinea,0,1,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
+2022-09-27,Algeria,Nigeria,2,1,Friendly,Oran,Algeria,FALSE
+2022-09-27,Argentina,Jamaica,3,0,Friendly,Harrison,United States,TRUE
+2022-09-27,Bahrain,Panama,0,2,Friendly,Riffa,Bahrain,FALSE
+2022-09-27,Brazil,Tunisia,5,1,Friendly,Paris,France,TRUE
+2022-09-27,Brunei Darussalam,Laos,1,0,Friendly,Bandar Seri Begawan,Brunei,TRUE
+2022-09-27,Burkina Faso,Comoros,2,1,Friendly,Casablanca,Morocco,TRUE
+2022-09-27,Canada,Uruguay,0,2,Friendly,Bratislava,Slovakia,TRUE
+2022-09-27,DR Congo,Sierra Leone,3,0,Friendly,Casablanca,Morocco,TRUE
+2022-09-27,Costa Rica,Uzbekistan,2,1,Friendly,Suwon,South Korea,TRUE
+2022-09-27,Ecuador,Japan,0,0,Kirin Challenge Cup,Düsseldorf,Germany,TRUE
+2022-09-27,Egypt,Liberia,3,0,Friendly,Alexandria,Egypt,FALSE
+2022-09-27,Equatorial Guinea,Togo,2,2,Friendly,Casablanca,Morocco,TRUE
+2022-09-27,Ghana,Nicaragua,1,0,Friendly,Lorca,Spain,TRUE
+2022-09-27,Honduras,Guatemala,2,1,Friendly,Houston,United States,TRUE
+2022-09-27,Indonesia,Curaçao,2,1,Friendly,Cibinong,Indonesia,FALSE
+2022-09-27,Iran,Senegal,1,1,Friendly,Maria Enzersdorf,Austria,TRUE
+2022-09-27,Ivory Coast,Guinea,3,1,Friendly,Amiens,France,TRUE
+2022-09-27,South Korea,Cameroon,1,0,Friendly,Seoul,South Korea,FALSE
+2022-09-27,Libya,Tanzania,2,1,Friendly,Benghazi,Libya,FALSE
+2022-09-27,Madagascar,Benin,3,1,Friendly,Mohammedia,Morocco,TRUE
+2022-09-27,Malta,Israel,2,1,Friendly,Ta' Qali,Malta,FALSE
+2022-09-27,Mauritania,Congo,2,0,Friendly,Mohammedia,Morocco,TRUE
+2022-09-27,Mexico,Colombia,2,3,Friendly,Santa Clara,United States,TRUE
+2022-09-27,Nepal,Bangladesh,3,1,Friendly,Kathmandu,Nepal,FALSE
+2022-09-27,Paraguay,Morocco,0,0,Friendly,Sevilla,Spain,TRUE
+2022-09-27,Peru,El Salvador,4,1,Friendly,Washington,United States,TRUE
+2022-09-27,Qatar,Chile,2,2,Friendly,Vienna,Austria,TRUE
+2022-09-27,Saudi Arabia,United States,0,0,Friendly,Murcia,Spain,TRUE
+2022-09-27,South Africa,Botswana,1,0,Friendly,Johannesburg,South Africa,FALSE
+2022-09-27,United Arab Emirates,Venezuela,0,4,Friendly,Wiener Neustadt,Austria,TRUE
+2022-09-27,Vietnam,India,3,0,Friendly,Ho Chi Minh City,Vietnam,FALSE
+2022-09-27,Portugal,Spain,0,1,UEFA Nations League,Braga,Portugal,FALSE
+2022-09-27,Switzerland,Czech Republic,2,1,UEFA Nations League,St. Gallen,Switzerland,FALSE
+2022-09-27,Republic of Ireland,Armenia,3,2,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2022-09-27,Ukraine,Scotland,0,0,UEFA Nations League,Kraków,Poland,TRUE
+2022-09-27,Albania,Iceland,1,1,UEFA Nations League,Tirana,Albania,FALSE
+2022-09-27,Norway,Serbia,0,2,UEFA Nations League,Oslo,Norway,FALSE
+2022-09-27,Sweden,Slovenia,1,1,UEFA Nations League,Stockholm,Sweden,FALSE
+2022-09-27,Kosovo,Cyprus,5,1,UEFA Nations League,Pristina,Kosovo,FALSE
+2022-09-27,Greece,Northern Ireland,3,1,UEFA Nations League,Athens,Greece,FALSE
+2022-09-30,Fiji,Solomon Islands,,,MSG Prime Minister's Cup,Luganville,Vanuatu,TRUE
